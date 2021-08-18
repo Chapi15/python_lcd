@@ -49,6 +49,8 @@ Giuseppe Cassibba wrote up a [tutorial](https://peppe8o.com/using-i2c-lcd-displa
 | -----                         | -----------                           |
 | esp32_gpio_lcd.py             | ESP32 GPIO HAL                        |
 | esp32_gpio_lcd_test.py        | ESP32 test using 4-bit GPIO           |
+| esp32_i2c_lcd.py              | ESP32 PCF8574 I2C HAL                 |
+| esp32_i2c_lcd_test.py         | ESP32 test using PCF8574 backpack     |
 | esp8266_i2c_lcd.py            | ESP8266 PCF8574 I2C HAL               |
 | esp8266_i2c_lcd_test.py       | ESP8266 test using PCF8574 backpack   |
 | i2c_lcd.py                    | Linux PCF8574 I2C HAL                 |
